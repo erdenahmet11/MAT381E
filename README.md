@@ -1,3 +1,2 @@
 # MAT381E
-MAT381E GitHub link submission
-Ahmet Erden - 090190743
+MAT381E - Introduction to Data Science 
